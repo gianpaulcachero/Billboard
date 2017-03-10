@@ -8,10 +8,11 @@ body {
 	margin-top: 50px;
 	margin-bottom: 50px;
 	background: none;
+	background-image: url(https://www.google.com.ph/search?q=panagbenga+2017&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj42MClsMvSAhVKqFQKHTgEDc0Q_AUIBygC&biw=1920&bih=974&safe=active&ssui=on#imgrc=qJAKX7WkyHLeGM:);
 }
 
 .full {
-  background: url(http://placehold.it/1920x1080) no-repeat center center fixed; 
+  background-image: url(https://www.google.com.ph/search?q=panagbenga+2017&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj42MClsMvSAhVKqFQKHTgEDc0Q_AUIBygC&biw=1920&bih=974&safe=active&ssui=on#imgrc=qJAKX7WkyHLeGM:)  no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
